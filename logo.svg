@@ -35,16 +35,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="334.38111"
-     inkscape:cy="296.1387"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="343.14685"
+     inkscape:cy="652.95145"
      inkscape:document-units="mm"
      inkscape:current-layer="g2959"
      showgrid="false"
      inkscape:window-width="1589"
      inkscape:window-height="905"
-     inkscape:window-x="1998"
-     inkscape:window-y="205"
+     inkscape:window-x="2109"
+     inkscape:window-y="203"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -74,7 +74,7 @@
            id="g2959"
            transform="matrix(1.3641496,0,0,1.3641496,-34.109285,-27.655269)">
           <rect
-             style="opacity:1;fill:#fff3c8;fill-opacity:1;stroke:#000000;stroke-width:1.97386098;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;fill:#e4bd7f;fill-opacity:1;stroke:#000000;stroke-width:1.97386098;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="use1071"
              width="44.376869"
              height="32.001717"
@@ -85,7 +85,7 @@
              inkscape:tile-x0="66.385245"
              inkscape:tile-y0="73.893396" />
           <rect
-             style="opacity:1;fill:#dead6f;fill-opacity:0.66865671;stroke:#000000;stroke-width:1.97386098;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;fill:#ffdc5f;fill-opacity:0.66865671;stroke:#000000;stroke-width:1.97386098;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="use1073"
              width="44.376869"
              height="32.001717"
@@ -96,7 +96,7 @@
              inkscape:tile-x0="66.385245"
              inkscape:tile-y0="73.893396" />
           <rect
-             style="opacity:1;fill:#963a16;fill-opacity:0.38805974;stroke:#000000;stroke-width:1.97386098;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;fill:#fffdc4;fill-opacity:0.38805974;stroke:#000000;stroke-width:1.97386098;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="use1071-6"
              width="44.376869"
              height="32.001717"
